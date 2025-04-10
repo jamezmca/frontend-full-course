@@ -4,7 +4,7 @@ Master modern frontend development in 2025 by learning **React.js**, **Svelte**,
 
 This is the ultimate beginner-friendly course to confidently learn the core concepts of component-based frontend frameworks, compare them side by side, and pick your favorite!
 
-➡️ **Watch the full course for free on YouTube (7.5 hours of hands-on tutorials)!**
+[➡️ **Watch the full course for free on YouTube (7.5 hours of hands-on tutorials)!**](https://www.youtu.be/rvwwHx2pJuw)
 
 ---
 
